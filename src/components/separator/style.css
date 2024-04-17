@@ -1,0 +1,9 @@
+.grey-separator {
+  height: 1px;
+  width: 50%;
+  background-color: #d1d5db;
+  margin: 10px auto;
+  justify-content: center;
+  display: flex;
+  margin-top: 2rem;
+}

@@ -1,0 +1,11 @@
+/* Light mode */
+.navbar-light {
+  background-color: #ffffff; /* Your light mode background color */
+  color: #000000; /* Your light mode text color */
+}
+
+/* Dark mode */
+.navbar-dark {
+  background-color: #374151; /* Your dark mode background color */
+  color: #ffffff; /* Your dark mode text color */
+}

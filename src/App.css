@@ -1,0 +1,28 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap");
+
+body {
+  margin: 0;
+  padding: 0;
+  text-align: center;
+  font-family: "Inter", sans-serif; /* Applying Inter font as default */
+}
+
+.light-mode {
+  background-color: white;
+  color: #374151;
+}
+
+.dark-mode {
+  background-color: #374151;
+  color: white;
+}
+
+.content-container {
+  max-width: 90%;
+  margin: auto;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 5rem;
+  padding: 1rem;
+}
